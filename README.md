@@ -15,7 +15,7 @@ Skills: C# / Unity / Java / HTML / CSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DarTiess)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarTiess)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarTiess&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DarTiess&theme=dracula&show_icons=true)  
 

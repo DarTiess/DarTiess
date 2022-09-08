@@ -17,6 +17,6 @@ Skills: C# / Unity / Java / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarTiess)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DarTiess&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DarTiess&theme=dracula&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/DarTiess)  

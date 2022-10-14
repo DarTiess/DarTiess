@@ -6,7 +6,7 @@ But I wish to make something great
 Skills: C# / Unity / Java / HTML / CSS
 
 - 🔭 I’m currently working on my skills 
-- 👯 I’m looking to collaborate on greate games
+- 👯 I’m looking to collaborate on great games
 - 📫 How to reach me: bermudsinbox@gmail.com 
 - ⚡ Fun fact: I have 2 dogs 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1JKNriKmFfBguMbf88vzhjxEG7sw-De7X/view?usp=sharing](https://drive.google.com/file/d/1JKNriKmFfBguMbf88vzhjxEG7sw-De7X/view?usp=sharing)
